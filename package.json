@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "gulp-jscs": "^4.1.0",
+    "gulp-jshint": "^2.1.0",
+    "jshint": "^2.13.4"
+  }
+}
